@@ -1,9 +1,3 @@
-Welcome to My GitHub Profile
-
-Hello, and welcome to my GitHub! This repository is a collection of my projects, experiments, and coursework in the fields of electronics, programming, and machine learning. Below, you’ll find an overview of my interests and key projects.
-
-About Me
-
 I am passionate about:
 
 Electronics: Designing circuits, working with sensors, and implementing automation.
