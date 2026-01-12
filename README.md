@@ -2,7 +2,7 @@ About Me
 
 I am passionate about:
 
-Electronics: Circuit design, sensors, and automation.
+Electronics: Circuit design, sensors, and automation.\n
 Programming: Arduino, Python, and creative coding.
 Machine Learning: Neural networks and face recognition.
 Control Systems: Optimizing real-world applications.
